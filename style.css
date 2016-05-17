@@ -1,3 +1,16 @@
 body {
 	background : #ffcc99;
 }
+img {
+	height:450px;
+	width:auto;
+}
+img {
+	display: block;
+}
+h1 {
+	font-size: 48px;
+}
+ h1{
+	border:#ff884d 10px dotted;
+}
