@@ -1,5 +1,7 @@
 body {
 	background : #ffcc99;
+	padding-left: 10px
+	padding-bottom; 15px
 }
 img {
 	height:450px;
@@ -10,7 +12,13 @@ img {
 }
 h1 {
 	font-size: 48px;
+	
 }
- h1{
+h2 
+{
+	padding:5px;
+}
+#main {
+	background :#ffb366;
 	border:#ff884d 10px dotted;
 }
